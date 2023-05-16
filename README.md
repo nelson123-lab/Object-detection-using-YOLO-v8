@@ -16,3 +16,6 @@
 ## Inference:
 1) Use the trained model to detect objects in new images or videos using the following command: python detect.py --weights [path_to_trained_weights] --img [path_to_image] --conf [confidence_threshold]
 2) The output will be an image with bounding boxes around the detected objects and their corresponding class labels.
+
+References:
+[Tutorial](https://youtu.be/HyRpkFAuNuM)
